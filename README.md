@@ -6,7 +6,7 @@ This "Wise Analyzer" app was made by Marie Bonin and I, as part of the June 2022
 
 ## Extraction des données
 
-L'extraction des données se fait par <B>web scraping</B>, via un programme écrit en <B>Python</B>
+L'extraction des données se fait par <B>web scraping</B>, via un programme écrit en <B>Python</B> et stocké dans un dossier GitHub <B>privé</B>, étant exécuté toutes les 8 heures en utilisant <B>GitHub Actions</B>
 
 
 
