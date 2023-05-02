@@ -1,4 +1,4 @@
-# DataScientest_DE_June2022_Project
+# Client Satisfaction Project
 
 ## Context
 
