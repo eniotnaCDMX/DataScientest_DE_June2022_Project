@@ -34,7 +34,7 @@ The application is coded in <B>Python</B>. The framework used to build the app i
 The goal of the analysis is, as we said earlier, to understand why a client gives a bad/good rate and if a bad/good rate always is a bad/good thing (that's why we lead a sentiment analysis), what we can do to make the service better. 
 
 ![GitHub Logo](/Images/SC1.png)
-Format: ![Alt Text](url)
+
 
 For the demonstration, the app will run locally on the developpers comuputer, yet, the app should run on a dedicated server on AWS EC2.
 
@@ -43,7 +43,7 @@ For the demonstration, the app will run locally on the developpers comuputer, ye
 The second page of our Dash app allows the user to add a comment to our database. When sending his comment, we apply the Vader model to it and he will be able to know immediately how his comment was classified.
 
 ![GitHub Logo](/Images/SC_2.png)
-Format: ![Alt Text](url)
+
 
 
 The user will then be able to clic on an "Update Database" botton on the first page of the app to be able to actualize the statistics on page one and see how it changed.
