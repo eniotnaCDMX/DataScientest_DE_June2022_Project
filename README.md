@@ -15,7 +15,7 @@ More specifically, it meets several needs:
 
 We can represent the architecture of our app as the folowing :
 
-![GitHub Logo](/Architecture.png)
+![GitHub Logo](/Images/Architecture.png)
 Format: ![Alt Text](url)
 
 ## Data Extraction
