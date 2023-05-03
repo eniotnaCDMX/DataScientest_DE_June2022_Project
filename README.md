@@ -11,7 +11,7 @@ More specifically, it meets several needs:
 - Possibility for the user to add their own comment to the database and find out which category their comment was classified in.
 - Update the content of the application after adding the comment.
 
-## Data architecture
+## Architecture
 
 We can represent the architecture of our app as the folowing :
 
