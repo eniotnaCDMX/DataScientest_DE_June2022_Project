@@ -11,6 +11,13 @@ More specifically, it meets several needs:
 - Possibility for the user to add their own comment to the database and find out which category their comment was classified in.
 - Update the content of the application after adding the comment.
 
+## Data architecture
+
+We can represent the architecture of our app as the folowing :
+
+![GitHub Logo](/Architecture.png)
+Format: ![Alt Text](url)
+
 ## Data Extraction
 
 Data extraction is done through <B>web scraping</B>, using a program written in <B>Python</B> and stored in a <B>private</B> GitHub folder, executed every 8 hours using <B>GitHub Actions</B>. A copy of the code is available in this folder under the name of <B>Update_RDS.py</B>. This code retrieves data from the comments of the first page of Wise-related comments on TrustPilot and stores them in a <B>MySQL</B> database hosted on <B>Amazon Web Services</B> in its <B>RDS</B> service.
@@ -21,8 +28,9 @@ The application is coded in <B>Python</B>. The framework used to build the app i
 
 The data is fully loaded into RAM (< 50000 comments) for faster processing.
 
-![GitHub Logo](/Architecture.png)
-Format: ![Alt Text](url)
+
+
+
 
 
 
