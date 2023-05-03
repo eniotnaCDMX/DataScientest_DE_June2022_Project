@@ -18,9 +18,9 @@ We can represent the architecture of our app as the folowing :
 
 ![GitHub Logo](/Images/Architecture.png)
 
-## Data Extraction
+## Data Extraction from TrustPilot
 
-Data extraction is done through <B>web scraping</B>, using a program written in <B>Python</B> and stored in a <B>private</B> GitHub folder, executed every 8 hours using <B>GitHub Actions</B>. A copy of the code is available in this folder under the name of <B>Update_RDS.py</B>. This code retrieves data from the comments of the first page of Wise-related comments on TrustPilot and stores them in a <B>MySQL</B> database hosted on <B>Amazon Web Services</B> in its <B>RDS</B> service.
+Data extraction is done through <B>web scraping</B>, using a program written in <B>Python</B> and stored in a <B>private</B> GitHub folder, executed every 8 hours using <B>GitHub Actions</B>. A copy of the code is available in this folder under the name of <B>Update_RDS.py</B>. This code retrieves data from the comments of the first page of Wise-related comments on TrustPilot, transforms (very slightly) the data and loads them in a <B>MySQL</B> database hosted on <B>Amazon Web Services</B> in its <B>RDS</B> service.
 
 ## Model Application
 
