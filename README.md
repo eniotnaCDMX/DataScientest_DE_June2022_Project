@@ -21,6 +21,10 @@ The application is coded in <B>Python</B>. The framework used to build the app i
 
 The data is fully loaded into RAM (< 50000 comments) for faster processing.
 
+![GitHub Logo](/Architecture.png)
+Format: ![Alt Text](url)
+
+
 
 
 
