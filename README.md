@@ -2,7 +2,8 @@
 
 ## Context
 
-This "Wise Analyzer" app was developed by Marie Bonin and me as part of the June 2022 Data Engineer training at DataScientest. The objective of this application is to analyze the content of comments related to the financial company "Wise" on the TrustPilot website. It is therefore based on the data contained on TrustPilot, offers the user the possibility to add a comment themselves, sets up a sentiment analysis algorithm to try to understand the links between ratings and sentiments, and what makes a sentiment positive or negative.
+This "Wise Analyzer" app was developed by Marie Bonin and me as part of the June 2022 Data Engineer training at DataScientest. The objective of this application is to analyze the content of comments related to the financial company "Wise" on the [Trustpilot](https://www.trustpilot.com/review/wise.com)
+ website. It is therefore based on the data contained on TrustPilot, offers the user the possibility to add a comment themselves, sets up a sentiment analysis algorithm to try to understand the links between ratings and sentiments, and what makes a sentiment positive or negative.
 
 More specifically, it meets several needs:
 
