@@ -37,7 +37,7 @@ The goal of the analysis is, as we said earlier, to understand why a client give
 ![GitHub Logo](/Images/SC1.png)
 
 
-For the demonstration, the app will run locally on the developpers comuputer, yet, the app should run on a dedicated server on AWS EC2.
+For the demonstration, the app will run locally on the developpers computer, yet, the app should run on a dedicated server on AWS EC2.
 
 ## Add a comment
 
